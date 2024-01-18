@@ -63,6 +63,6 @@ public class Ex05_1_ObjectOutputStream {
 		}
 		}
 		
-	}
+	}//추가
 	
 }
